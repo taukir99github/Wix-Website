@@ -1,6 +1,6 @@
 
 import Hero from "./Hero.jsx";
-import Section2 from "./Section2.jsx"
+import OurSection from "./OurSection.jsx"
 import AboutUs from "../Components/AboutUs.jsx"
 import Testinomial from "./Testinomial.jsx";
 import OurClient from "../Components/OurClient.jsx";
@@ -10,7 +10,7 @@ export default function Route(){
         <div className="flex flex-col gap-4">
         
       <Hero/>
-      <Section2/>
+      <OurSection/>
       <AboutUs/>
       <OurClient/>
       <Testinomial/>

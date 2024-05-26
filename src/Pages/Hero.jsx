@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import Hero1 from '../assests/hero.jpg';
+import Hero1 from '../Images/hero.jpg';
 import Button from '../Custom/Button';
 
 export default function Hero() {
